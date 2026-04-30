@@ -82,7 +82,7 @@ export const Footer = memo(function Footer({ onNavigate }: FooterProps) {
 
         <div className="border-t border-border pt-8 pb-0 text-center">
           <p className="text-muted-foreground m-[0px] mb-[16px]">
-            © 2025 Priority Pay Network. All rights reserved.
+            © 2025 Priority Pay Network. All rights reserved. &nbsp;·&nbsp; Designed &amp; developed by John Balboa
           </p>
         </div>
       </div>
