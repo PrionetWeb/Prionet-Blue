@@ -12,7 +12,6 @@
     "type-check": "tsc --noEmit",
     "build:prod": "npm run type-check && npm run lint && npm run build",
     "clean": "rm -rf dist node_modules/.vite",
-    "prepare": "npm run clean && npm install",
     "test:accessibility": "echo 'Run axe-core tests here'",
     "analyze": "npx vite-bundle-analyzer",
     "deploy:netlify": "netlify deploy --prod",
