@@ -820,7 +820,7 @@ function HomePage33() {
   return (
     <div className="h-[24px] relative shrink-0 w-[112.688px]" data-name="HomePage2">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[56.5px] text-[16px] text-center text-nowrap text-white top-0 translate-x-[-50%]">(702) 570-5200</p>
+        <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[56.5px] text-[16px] text-center text-nowrap text-white top-0 translate-x-[-50%]">(512) 774-6638</p>
       </div>
     </div>
   );
@@ -1297,7 +1297,7 @@ function Link5() {
   return (
     <div className="h-[24px] relative rounded-[4px] shrink-0 w-[112.688px]" data-name="Link">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-0 text-[#3f3f3f] text-[16px] text-nowrap top-0">(702) 570-5200</p>
+        <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-0 text-[#3f3f3f] text-[16px] text-nowrap top-0">(512) 774-6638</p>
       </div>
     </div>
   );

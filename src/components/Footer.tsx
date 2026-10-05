@@ -72,8 +72,8 @@ export const Footer = memo(function Footer({ onNavigate }: FooterProps) {
             <address className="space-y-3 not-italic">
               <div className="flex items-center gap-3">
                 <PhoneIcon className="w-4 h-4 text-primary shrink-0" aria-hidden="true" />
-                <a href="tel:+17025705200" className="text-muted-foreground hover:text-primary transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 rounded">
-                  (702) 570-5200
+                <a href="tel:+15127746638" className="text-muted-foreground hover:text-primary transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 rounded">
+                  (512) 774-6638
                 </a>
               </div>
             </address>

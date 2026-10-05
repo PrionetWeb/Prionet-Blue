@@ -18,7 +18,7 @@ function HomePage() {
   return (
     <div className="h-[24px] relative shrink-0 w-[112.688px]" data-name="HomePage2">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="-translate-x-1/2 absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[56.5px] text-[16px] text-center text-white top-0">(702) 570-5200</p>
+        <p className="-translate-x-1/2 absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[56.5px] text-[16px] text-center text-white top-0">(512) 774-6638</p>
       </div>
     </div>
   );

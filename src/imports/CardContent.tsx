@@ -77,7 +77,7 @@ function Text3() {
     <div className="h-[24px] relative shrink-0 w-[166.984px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid box-border h-[24px] relative w-[166.984px]">
         <BoldText1 />
-        <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[53.72px] text-[#3f3f3f] text-[16px] text-nowrap top-[-0.06px] whitespace-pre">(702) 570-5200</p>
+        <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[53.72px] text-[#3f3f3f] text-[16px] text-nowrap top-[-0.06px] whitespace-pre">(512) 774-6638</p>
       </div>
     </div>
   );

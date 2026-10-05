@@ -54,7 +54,7 @@ function Button() {
   return (
     <div className="bg-blue-600 h-[36px] relative rounded-[16px] shrink-0 w-[144.688px]" data-name="Button">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid box-border content-stretch flex gap-[8px] h-[36px] items-center justify-center px-[16px] py-[8px] relative w-[144.688px]">
-        <p className="font-['Outfit:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[16px] text-nowrap text-white whitespace-pre">(702) 570-5200</p>
+        <p className="font-['Outfit:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[16px] text-nowrap text-white whitespace-pre">(512) 774-6638</p>
       </div>
     </div>
   );

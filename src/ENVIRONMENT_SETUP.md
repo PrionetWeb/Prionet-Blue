@@ -40,7 +40,7 @@ VITE_API_BASE_URL="https://api.prioritypaynetwork.com"
 ```env
 # Support Contact
 VITE_SUPPORT_EMAIL="support@prioritypaynet.org"
-VITE_SUPPORT_PHONE="(702) 570-5200"
+VITE_SUPPORT_PHONE="(512) 774-6638"
 VITE_SECURITY_EMAIL="security@prioritypaynet.org"
 ```
 

@@ -569,8 +569,8 @@ export function PrivacyPolicyPage() {
                     style={{ borderRadius: 'var(--radius)' }}
                     asChild
                   >
-                    <a href="tel:+17025705200">
-                      Emergency: (702) 570-5200
+                    <a href="tel:+15127746638">
+                      Emergency: (512) 774-6638
                     </a>
                   </Button>
                   <Button 
@@ -606,7 +606,7 @@ export function PrivacyPolicyPage() {
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2">•</span>
-                  <span><strong>Phone:</strong> (702) 570-5200</span>
+                  <span><strong>Phone:</strong> (512) 774-6638</span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2">•</span>
@@ -673,7 +673,7 @@ export function PrivacyPolicyPage() {
                 <p><strong>Priority Pay Network</strong></p>
                 <p>Privacy Officer</p>
                 <p>Email: <a href="mailto:privacy@prionetprovider.com" target="_blank" rel="noopener noreferrer" className="text-[var(--brand-blue)] hover:text-[var(--brand-teal)] transition-colors underline">privacy@prionetprovider.com</a></p>
-                <p>Phone: (702) 570-5200</p>
+                <p>Phone: (512) 774-6638</p>
               </div>
               <div className="mt-6 pt-6" style={{ borderTop: '1px solid rgba(255,255,255,0.2)' }}>
                 <p style={{ color: 'var(--primary-foreground)', lineHeight: '1.8' }}>

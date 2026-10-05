@@ -35,7 +35,7 @@ export function ContactPage() {
     {
       icon: <PhoneIcon className="w-6 h-6 text-primary" />,
       title: "Support Hotline",
-      content: "(702) 570-5200",
+      content: "(512) 774-6638",
       description: "Available Monday-Friday, 8 AM - 6 PM PST"
     },
     {
@@ -82,7 +82,7 @@ export function ContactPage() {
   const faqs = [
     {
       question: "How do I access the Practitioner Portal?",
-      answer: "Health care practitioners need authorized credentials to access the portal. Contact our support team at (702) 570-5200 to request access or if you have login issues."
+      answer: "Health care practitioners need authorized credentials to access the portal. Contact our support team at (512) 774-6638 to request access or if you have login issues."
     },
     {
       question: "What information can practitioners see about patients?",
@@ -120,7 +120,7 @@ export function ContactPage() {
               <Alert className="rounded-2xl border-primary/20 bg-primary/5">
                 <PhoneIcon className="h-4 w-4 text-primary" />
                 <AlertDescription className="text-foreground">
-                  Call (702) 570-5200 for assistance with portal access, or urgent technical issues.
+                  Call (512) 774-6638 for assistance with portal access, or urgent technical issues.
                 </AlertDescription>
               </Alert>
             </div>
@@ -250,7 +250,7 @@ export function ContactPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-xl">
-              (702) 570-5200
+              (512) 774-6638
             </Button>
             <Button 
               asChild

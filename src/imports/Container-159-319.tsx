@@ -65,7 +65,7 @@ function ContactPage() {
 function ContactPage1() {
   return (
     <div className="h-[24px] relative shrink-0 w-[188px]" data-name="ContactPage">
-      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[94.16px] text-[#3f3f3f] text-[16px] text-center text-nowrap top-0 translate-x-[-50%] whitespace-pre">(702) 570-5200</p>
+      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[94.16px] text-[#3f3f3f] text-[16px] text-center text-nowrap top-0 translate-x-[-50%] whitespace-pre">(512) 774-6638</p>
     </div>
   );
 }

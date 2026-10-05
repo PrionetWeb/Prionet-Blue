@@ -352,7 +352,7 @@ export function ProductsPage({ onNavigate }: ProductsPageProps) {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-xl">
-              <span>(702) 570-5200</span>
+              <span>(512) 774-6638</span>
             </Button>
             <Button 
               variant="outline"

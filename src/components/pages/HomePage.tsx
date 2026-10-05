@@ -623,10 +623,10 @@ export const HomePage = memo(function HomePage({ onNavigate }: HomePageProps) {
           >
             <Button 
               className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-xl transition-all duration-300 hover:scale-105 min-h-[44px] min-w-[44px]"
-              aria-label="Call support at (702) 570-5200"
-              onClick={() => window.location.href = 'tel:+17025705200'}
+              aria-label="Call support at (512) 774-6638"
+              onClick={() => window.location.href = 'tel:+15127746638'}
             >
-              <span>(702) 570-5200</span>
+              <span>(512) 774-6638</span>
             </Button>
             <Button 
               variant="outline"
