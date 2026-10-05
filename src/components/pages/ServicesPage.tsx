@@ -213,7 +213,7 @@ export function ServicesPage({ onNavigate }: ServicesPageProps) {
                   Patient-First Healthcare Management
                 </h2>
                 <p style={{ color: 'var(--muted-foreground)', lineHeight: '1.6' }}>
-                  Priority Pay Network bridges the gap between healthcare practitioners and patients when they make payment arrangements, 
+                  Priority Payment Network bridges the gap between healthcare practitioners and patients when they make payment arrangements, 
                   offering a secure solution that respects patient privacy.
                 </p>
               </div>
@@ -287,10 +287,10 @@ export function ServicesPage({ onNavigate }: ServicesPageProps) {
                     href="https://www.prioritypaynet.org/join/join.cfm"
                     target="_blank"
                     rel="noopener noreferrer"
-                    aria-label="Join Priority Pay Network (opens in new tab)"
+                    aria-label="Join Priority Payment Network (opens in new tab)"
                     className="text-[16px]"
                   >
-                    Join Priority Pay Network
+                    Join Priority Payment Network
                     <ArrowRightIcon className="ml-2 w-4 h-4" />
                   </a>
                 </Button>
@@ -307,7 +307,7 @@ export function ServicesPage({ onNavigate }: ServicesPageProps) {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="mb-4">
-              The Priority Pay Network Process
+              The Priority Payment Network Process
             </h2>
             <p style={{ color: 'var(--muted-foreground)', maxWidth: '600px', margin: '0 auto' }}>
               A secure, privacy-focused approach to healthcare balance management that protects 
@@ -510,7 +510,7 @@ export function ServicesPage({ onNavigate }: ServicesPageProps) {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="mb-4">
-              Why Choose Priority Pay Network?
+              Why Choose Priority Payment Network?
             </h2>
           </div>
           

@@ -13,7 +13,7 @@ export const Footer = memo(function Footer({ onNavigate }: FooterProps) {
         <div className="grid grid-cols-1 md:grid-cols-[1.5fr_1fr_1fr] gap-8 mb-8">
           {/* Company Info */}
           <section aria-labelledby="company-info">
-            <h3 id="company-info" className="text-primary mb-6">Priority Pay Network</h3>
+            <h3 id="company-info" className="text-primary mb-6">Priority Payment Network</h3>
             <p className="text-muted-foreground mb-6 max-w-md">
               A secure platform connecting health care practitioners and patients to resolve outstanding medical bills over 90 days old thus sustaining our health care system and ensuring both (practitioners and patients) can thrive.
             </p>
@@ -82,7 +82,7 @@ export const Footer = memo(function Footer({ onNavigate }: FooterProps) {
 
         <div className="border-t border-border pt-8 pb-0 text-center">
           <p className="text-muted-foreground m-[0px] mb-[16px]">
-            © 2025 Priority Pay Network. All rights reserved. &nbsp;·&nbsp; Designed &amp; developed by John Balboa
+            © 2025 Priority Payment Network. All rights reserved. &nbsp;·&nbsp; Designed &amp; developed by John Balboa
           </p>
         </div>
       </div>

@@ -38,7 +38,7 @@ export function PrivacyPolicyPage() {
             <CardContent className="p-8">
               <h2 className="mb-4">Introduction</h2>
               <p style={{ color: 'var(--muted-foreground)', lineHeight: '1.8', marginBottom: '1rem' }}>
-                Priority Pay Network (also known as PRIONET) is committed to protecting your privacy and ensuring the security 
+                Priority Payment Network (also known as PRIONET) is committed to protecting your privacy and ensuring the security 
                 of your personal and protected health information (PHI). This Privacy Policy describes how we collect, use, disclose, 
                 and safeguard your information in compliance with the Health Insurance Portability and Accountability Act (HIPAA), 
                 the General Data Protection Regulation (GDPR), and all applicable U.S. federal and state privacy laws.
@@ -59,7 +59,7 @@ export function PrivacyPolicyPage() {
               
               <h3 className="mb-3">Covered Entity Status</h3>
               <p style={{ color: 'var(--muted-foreground)', lineHeight: '1.8', marginBottom: '1.5rem' }}>
-                Priority Pay Network operates as a HIPAA-covered entity and Business Associate. We handle Protected Health 
+                Priority Payment Network operates as a HIPAA-covered entity and Business Associate. We handle Protected Health 
                 Information (PHI) in strict accordance with HIPAA Privacy Rule (45 CFR Part 160 and Part 164, Subparts A and E) 
                 and Security Rule (45 CFR Part 164, Subpart C) requirements.
               </p>
@@ -280,7 +280,7 @@ export function PrivacyPolicyPage() {
             <CardContent className="p-8">
               <h2 className="mb-4">Security & Compliance Measures</h2>
               <p style={{ color: 'var(--muted-foreground)', lineHeight: '1.8', marginBottom: '1.5rem' }}>
-                Priority Pay Network maintains the highest standards of security and compliance 
+                Priority Payment Network maintains the highest standards of security and compliance 
                 to protect all users and data within the platform.
               </p>
               
@@ -481,7 +481,7 @@ export function PrivacyPolicyPage() {
             <CardContent className="p-8">
               <h2 className="mb-4">Data Analytics & Monitoring</h2>
               <p style={{ color: 'var(--muted-foreground)', lineHeight: '1.8', marginBottom: '1.5rem' }}>
-                Priority Pay Network collects limited analytics data for internal system monitoring and security purposes:
+                Priority Payment Network collects limited analytics data for internal system monitoring and security purposes:
               </p>
               <ul className="space-y-2 mb-4" style={{ color: 'var(--muted-foreground)', lineHeight: '1.8' }}>
                 <li className="flex items-start">
@@ -670,7 +670,7 @@ export function PrivacyPolicyPage() {
                 If you have questions or concerns about this Privacy Policy or our privacy practices, please contact:
               </p>
               <div style={{ color: 'var(--primary-foreground)', lineHeight: '1.8' }}>
-                <p><strong>Priority Pay Network</strong></p>
+                <p><strong>Priority Payment Network</strong></p>
                 <p>Privacy Officer</p>
                 <p>Email: <a href="mailto:privacy@prionetprovider.com" target="_blank" rel="noopener noreferrer" className="text-[var(--brand-blue)] hover:text-[var(--brand-teal)] transition-colors underline">privacy@prionetprovider.com</a></p>
                 <p>Phone: (512) 774-6638</p>

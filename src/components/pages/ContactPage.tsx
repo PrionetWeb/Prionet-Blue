@@ -28,7 +28,7 @@ export function ContactPage() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     console.log('Form submitted:', formData);
-    alert('Thank you for contacting Priority Pay Network. Our support team will respond within 24 hours.');
+    alert('Thank you for contacting Priority Payment Network. Our support team will respond within 24 hours.');
   };
 
   const contactInfo = [
@@ -93,11 +93,11 @@ export function ContactPage() {
       answer: "Patients can access their secure portal to view complete balance details, dispute charges, and make payments. Contact support for help with patient portal access."
     },
     {
-      question: "Is Priority Pay Network HIPAA compliant?",
-      answer: "Yes, Priority Pay Network is fully HIPAA compliant with enterprise-grade security, data encryption, and strict privacy controls to protect all patient information."
+      question: "Is Priority Payment Network HIPAA compliant?",
+      answer: "Yes, Priority Payment Network is fully HIPAA compliant with enterprise-grade security, data encryption, and strict privacy controls to protect all patient information."
     },
     {
-      question: "What data does Priority Pay Network collect?",
+      question: "What data does Priority Payment Network collect?",
       answer: "We collect limited analytics data like login times and device information for security monitoring. This data is used internally only and never shared with third parties."
     }
   ];
@@ -113,7 +113,7 @@ export function ContactPage() {
             <div>
               <h1 className="mb-6 text-[24px] sm:text-4xl lg:text-5xl">Support & Contact</h1>
               <p className="text-muted-foreground mb-8">
-                Priority Pay Network provides comprehensive support for health care practitioners and patients. 
+                Priority Payment Network provides comprehensive support for health care practitioners and patients. 
                 Whether you need help with portal access, or have questions about general use.
               </p>
 
@@ -175,7 +175,7 @@ export function ContactPage() {
           <div className="text-center mb-12">
             <h2 className="mb-4">How We Can Help</h2>
             <p className="text-muted-foreground">
-              Specialized support for different user types and needs within Priority Pay Network.
+              Specialized support for different user types and needs within Priority Payment Network.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -244,7 +244,7 @@ export function ContactPage() {
             <span>Serving Health Care Practitioners Nationwide</span>
           </div>
           <p className="text-muted-foreground mb-8">
-            Priority Pay Network operates as a secure online platform serving health care practitioners 
+            Priority Payment Network operates as a secure online platform serving health care practitioners 
             and patients across the United States. Our support team is available to assist with 
             any questions or technical issues.
           </p>

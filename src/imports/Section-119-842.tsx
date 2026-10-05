@@ -45,7 +45,7 @@ function Container() {
 function Paragraph() {
   return (
     <div className="h-[48px] relative shrink-0 w-full" data-name="Paragraph">
-      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[416.44px] text-[#3f3f3f] text-[16px] text-center top-0 translate-x-[-50%] w-[831px]">Priority Pay Network operates as a secure online platform serving healthcare providers and patients across the United States. Our support team is available to assist with any questions or technical issues.</p>
+      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[416.44px] text-[#3f3f3f] text-[16px] text-center top-0 translate-x-[-50%] w-[831px]">Priority Payment Network operates as a secure online platform serving healthcare providers and patients across the United States. Our support team is available to assist with any questions or technical issues.</p>
     </div>
   );
 }

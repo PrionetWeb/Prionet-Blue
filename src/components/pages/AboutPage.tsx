@@ -131,7 +131,7 @@ export function AboutPage() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.2 }}
               >
-                About Priority Pay Network
+                About Priority Payment Network
               </motion.h1>
               <motion.p
                 className="text-muted-foreground mb-6"
@@ -139,7 +139,7 @@ export function AboutPage() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.3 }}
               >
-                Priority Pay Network (PPN) is a secure online
+                Priority Payment Network (PPN) is a secure online
                 platform designed to help healthcare
                 practitioners and patients manage outstanding
                 medical payments that are over 90 days old. We
@@ -170,7 +170,7 @@ export function AboutPage() {
                 transition={{ duration: 0.8, delay: 0.5 }}
               >
                 Founded on principles of privacy, security, and
-                ethical balance management, Priority Pay Network
+                ethical balance management, Priority Payment Network
                 serves health care practitioners while protecting
                 patient rights and maintaining HIPAA compliance
                 throughout all operations.
@@ -245,7 +245,7 @@ export function AboutPage() {
           >
             <h2 className="mb-4">What Makes Us Different</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              Priority Pay Network is specifically designed to
+              Priority Payment Network is specifically designed to
               facilitate health care balance management between
               patients and practitioners, enabling them to agree on
               mutual payment arrangements through fair,
@@ -346,7 +346,7 @@ export function AboutPage() {
               Privacy Protection at Every Level
             </h2>
             <p className="text-muted-foreground max-w-3xl mx-auto">
-              Priority Pay Network implements multiple layers of
+              Priority Payment Network implements multiple layers of
               privacy protection to ensure patient
               information remains secure while enabling
               efficient balance management.

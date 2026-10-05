@@ -638,7 +638,7 @@ function HomePage29() {
 function HomePage30() {
   return (
     <div className="absolute h-[48px] left-[272px] top-[73.59px] w-[672px]" data-name="HomePage2">
-      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[336.17px] text-[#3f3f3f] text-[16px] text-center top-0 translate-x-[-50%] w-[636px]">Priority Pay Network serves thousands of healthcare practitioners and manages millions in outstanding medical debt while maintaining the highest privacy standards.</p>
+      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[336.17px] text-[#3f3f3f] text-[16px] text-center top-0 translate-x-[-50%] w-[636px]">Priority Payment Network serves thousands of healthcare practitioners and manages millions in outstanding medical debt while maintaining the highest privacy standards.</p>
     </div>
   );
 }
@@ -1123,7 +1123,7 @@ function HomePage39() {
 function Heading2() {
   return (
     <div className="absolute content-stretch flex h-[41.594px] items-start left-0 top-0 w-[493.703px]" data-name="Heading 3">
-      <p className="basis-0 font-['Outfit:Bold',sans-serif] font-bold grow leading-[41.6px] min-h-px min-w-px relative shrink-0 text-[#2563eb] text-[32px]">Priority Pay Network</p>
+      <p className="basis-0 font-['Outfit:Bold',sans-serif] font-bold grow leading-[41.6px] min-h-px min-w-px relative shrink-0 text-[#2563eb] text-[32px]">Priority Payment Network</p>
     </div>
   );
 }
@@ -1342,7 +1342,7 @@ function Container18() {
 function Paragraph12() {
   return (
     <div className="h-[24px] relative shrink-0 w-full" data-name="Paragraph">
-      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[607.55px] text-[#3f3f3f] text-[16px] text-center text-nowrap top-0 translate-x-[-50%]">© 2025 Priority Pay Network. All rights reserved.</p>
+      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[607.55px] text-[#3f3f3f] text-[16px] text-center text-nowrap top-0 translate-x-[-50%]">© 2025 Priority Payment Network. All rights reserved.</p>
     </div>
   );
 }

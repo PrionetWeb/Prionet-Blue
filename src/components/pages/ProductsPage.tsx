@@ -93,7 +93,7 @@ export function ProductsPage({ onNavigate }: ProductsPageProps) {
                   Built for Health Care Practitioners
                 </h1>
                 <p style={{ color: 'var(--muted-foreground)', lineHeight: '1.6' }}>
-                  Priority Pay Network is designed specifically to support health care practitioners 
+                  Priority Payment Network is designed specifically to support health care practitioners 
                   in managing patient financial matters with confidence, security, and complete 
                   privacy compliance. Our platform puts the tools you need at your fingertips.
                 </p>
@@ -207,7 +207,7 @@ export function ProductsPage({ onNavigate }: ProductsPageProps) {
           <div className="text-center mb-12">
             <h2 className="mb-4">Why You Want Your Practitioner to Be a PRIONET Practitioner</h2>
             <p className="text-muted-foreground max-w-3xl mx-auto">
-              When your healthcare practitioner participates in Priority Pay Network, you benefit from 
+              When your healthcare practitioner participates in Priority Payment Network, you benefit from 
               a more transparent, efficient, and privacy-focused approach to managing medical balances.
             </p>
           </div>
@@ -348,7 +348,7 @@ export function ProductsPage({ onNavigate }: ProductsPageProps) {
           <h2 className="mb-4">Need Help with Portal Access?</h2>
           <p className="text-muted-foreground mb-8 max-w-2xl mx-auto">
             Our support team is available to help with portal access, technical issues, 
-            or questions about using Priority Pay Network's platform.
+            or questions about using Priority Payment Network's platform.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-xl">

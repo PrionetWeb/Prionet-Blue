@@ -11,7 +11,7 @@ function Heading() {
 function Paragraph() {
   return (
     <div className="h-[24px] relative shrink-0 w-full" data-name="Paragraph">
-      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[416.3px] text-[#3f3f3f] text-[16px] text-center text-nowrap top-0 translate-x-[-50%] whitespace-pre">Common questions about Priority Pay Network and our services.</p>
+      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[416.3px] text-[#3f3f3f] text-[16px] text-center text-nowrap top-0 translate-x-[-50%] whitespace-pre">Common questions about Priority Payment Network and our services.</p>
     </div>
   );
 }

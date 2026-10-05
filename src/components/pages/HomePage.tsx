@@ -396,7 +396,7 @@ export const HomePage = memo(function HomePage({ onNavigate }: HomePageProps) {
                 style={{ borderRadius: 'var(--radius)' }}
               />
               <p className="sr-only">
-                Image showing compassionate health care with a patient in a wheelchair receiving care from a health care practitioner, demonstrating Priority Pay Network's commitment to accessible and dignified medical services.
+                Image showing compassionate health care with a patient in a wheelchair receiving care from a health care practitioner, demonstrating Priority Payment Network's commitment to accessible and dignified medical services.
               </p>
             </motion.div>
           </div>
@@ -419,7 +419,7 @@ export const HomePage = memo(function HomePage({ onNavigate }: HomePageProps) {
           >
             <h2 id="stats-heading" className="mb-4">Trusted by Health Care Professionals Nationwide</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              Priority Pay Network serves healthcare professionals and other health related services nationwide, with patient dignity and support in mind.
+              Priority Payment Network serves healthcare professionals and other health related services nationwide, with patient dignity and support in mind.
             </p>
           </motion.div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
@@ -584,7 +584,7 @@ export const HomePage = memo(function HomePage({ onNavigate }: HomePageProps) {
                   href="https://www.prioritypaynet.org/join/join.cfm"
                   target="_blank"
                   rel="noopener noreferrer"
-                  aria-label="Join Priority Pay Network (opens in new tab)" 
+                  aria-label="Join Priority Payment Network (opens in new tab)" 
                   className="text-[16px]"
                 >
                   Join Prionet Today

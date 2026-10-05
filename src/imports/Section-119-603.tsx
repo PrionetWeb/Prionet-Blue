@@ -9,7 +9,7 @@ function Heading() {
 function Paragraph() {
   return (
     <div className="h-[24px] relative shrink-0 w-full" data-name="Paragraph">
-      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[415.5px] text-[#3f3f3f] text-[16px] text-center text-nowrap top-0 translate-x-[-50%] whitespace-pre">Technical requirements and access information for Priority Pay Network portals.</p>
+      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[24px] left-[415.5px] text-[#3f3f3f] text-[16px] text-center text-nowrap top-0 translate-x-[-50%] whitespace-pre">Technical requirements and access information for Priority Payment Network portals.</p>
     </div>
   );
 }

@@ -5,7 +5,7 @@ function ServicesPage() {
   return (
     <div className="absolute h-[134.375px] left-[32px] top-[32px] w-[736.656px]" data-name="ServicesPage">
       <p className="absolute font-['Roboto:Bold',sans-serif] font-bold leading-[67.2px] left-0 text-[#3f3f3f] text-[56px] top-[-1px] w-[646px]" style={{ fontVariationSettings: "'wdth' 100" }}>
-        How Priority Pay Network Works
+        How Priority Payment Network Works
       </p>
     </div>
   );
@@ -142,7 +142,7 @@ function Heading() {
 function Paragraph() {
   return (
     <div className="h-[76.781px] relative shrink-0 w-full" data-name="Paragraph">
-      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[25.6px] left-0 text-[#3f3f3f] text-[16px] top-[-1px] w-[569px]">Priority Pay Network bridges the gap between healthcare providers and patients when they make payment arrangements, offering a secure solution that respects patient privacy.</p>
+      <p className="absolute font-['Outfit:Regular',sans-serif] font-normal leading-[25.6px] left-0 text-[#3f3f3f] text-[16px] top-[-1px] w-[569px]">Priority Payment Network bridges the gap between healthcare providers and patients when they make payment arrangements, offering a secure solution that respects patient privacy.</p>
     </div>
   );
 }
@@ -544,7 +544,7 @@ function Heading7() {
   return (
     <div className="absolute content-stretch flex h-[57.594px] items-start left-0 top-0 w-[1216px]" data-name="Heading 2">
       <p className="basis-0 font-['Roboto:Bold',sans-serif] font-bold grow leading-[57.6px] min-h-px min-w-px relative shrink-0 text-[#3f3f3f] text-[48px] text-center" style={{ fontVariationSettings: "'wdth' 100" }}>
-        The Priority Pay Network Process
+        The Priority Payment Network Process
       </p>
     </div>
   );
@@ -1401,7 +1401,7 @@ function Heading16() {
   return (
     <div className="content-stretch flex h-[57.594px] items-start relative shrink-0 w-full" data-name="Heading 2">
       <p className="basis-0 font-['Roboto:Bold',sans-serif] font-bold grow leading-[57.6px] min-h-px min-w-px relative shrink-0 text-[#3f3f3f] text-[48px] text-center" style={{ fontVariationSettings: "'wdth' 100" }}>
-        Why Choose Priority Pay Network?
+        Why Choose Priority Payment Network?
       </p>
     </div>
   );
@@ -1777,7 +1777,7 @@ function ServicesPage43() {
 function Heading1() {
   return (
     <div className="absolute content-stretch flex h-[41.594px] items-start left-0 top-0 w-[493.703px]" data-name="Heading 3">
-      <p className="basis-0 font-['Outfit:Bold',sans-serif] font-bold grow leading-[41.6px] min-h-px min-w-px relative shrink-0 text-[#2563eb] text-[32px]">Priority Pay Network</p>
+      <p className="basis-0 font-['Outfit:Bold',sans-serif] font-bold grow leading-[41.6px] min-h-px min-w-px relative shrink-0 text-[#2563eb] text-[32px]">Priority Payment Network</p>
     </div>
   );
 }

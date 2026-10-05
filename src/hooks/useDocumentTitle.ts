@@ -12,7 +12,7 @@ export function useDocumentTitle(title: string, announce: boolean = true) {
     const previousTitle = document.title;
     
     // Update document title
-    document.title = `${title} | Priority Pay Network`;
+    document.title = `${title} | Priority Payment Network`;
     
     // Announce page title to screen readers
     if (announce) {
@@ -78,7 +78,7 @@ export function useOpenGraph(title: string, description: string, image?: string)
       meta.setAttribute('content', content);
     };
     
-    updateMetaTag('og:title', `${title} | Priority Pay Network`);
+    updateMetaTag('og:title', `${title} | Priority Payment Network`);
     updateMetaTag('og:description', description);
     
     if (image) {
@@ -86,7 +86,7 @@ export function useOpenGraph(title: string, description: string, image?: string)
     }
     
     // Update Twitter card tags
-    updateMetaTag('twitter:title', `${title} | Priority Pay Network`);
+    updateMetaTag('twitter:title', `${title} | Priority Payment Network`);
     updateMetaTag('twitter:description', description);
     
     if (image) {

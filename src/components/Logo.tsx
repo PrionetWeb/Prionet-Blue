@@ -28,7 +28,7 @@ export const Logo = memo(function Logo({ className = "", onClick }: LogoProps) {
       onKeyDown={handleKeyPress}
       role="button"
       tabIndex={0}
-      aria-label="Priority Pay Network - Return to homepage"
+      aria-label="Priority Payment Network - Return to homepage"
     >
       {/* PPN Logo */}
       <div className="flex items-center">

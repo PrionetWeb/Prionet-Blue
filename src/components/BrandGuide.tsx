@@ -1,4 +1,4 @@
-// Brand Guide for Priority Pay Network
+// Brand Guide for Priority Payment Network
 // This component serves as a reference for maintaining consistent branding
 
 export const BrandGuide = {

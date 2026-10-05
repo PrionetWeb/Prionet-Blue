@@ -29,7 +29,7 @@ function Link() {
 export default function Section() {
   return (
     <div className="content-stretch flex flex-col gap-[12px] items-start relative size-full" data-name="Section">
-      <p className="font-['Outfit:Bold',sans-serif] font-bold h-[42px] leading-[41.6px] relative shrink-0 text-[32px] text-blue-600 w-[493.703px]">Priority Pay Network</p>
+      <p className="font-['Outfit:Bold',sans-serif] font-bold h-[42px] leading-[41.6px] relative shrink-0 text-[32px] text-blue-600 w-[493.703px]">Priority Payment Network</p>
       <Paragraph />
       <Link />
     </div>
